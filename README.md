@@ -1,2 +1,1 @@
-# ai_chatbot_fine_tuning
-A repository for ai chatbot fine tuning sample code
+# Improving Human-AI Interactions with More Accessible Deep Learning
