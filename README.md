@@ -25,4 +25,4 @@ Preprocessing code and data for this repository were originally sourced from htt
 This notebook was originally developed and tested on an Intel 4th Generation Xeon Baremetal Instance on the Intel Developer Cloud. You can register for Beta cloud access here: https://cloud.intel.com
 
 ### Associated Medium Article
-- [Improving Human-AI Interactions with More Accessible Deep Learning](https://medium.com/@eduand-alvarez)
+- [Improving Human-AI Interactions with More Accessible Deep Learning](https://medium.com/intel-analytics-software/improving-human-ai-interactions-with-more-accessible-deep-learning-f3caced5d577?sk=43a615428826963cbc7fe027f6205d5c)
